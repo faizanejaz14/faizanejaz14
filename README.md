@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋 I'm Faizan Ejaz
 
-<!--
-**faizanejaz14/faizanejaz14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer from Pakistan 🇵🇰
 
-Here are some ideas to get you started:
+I'm passionate about
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Full Stack Development
+- Next.js
+- React Native
+- .Net
+- Angular
+
+## 🚀 Current Projects
+
+- EZscene
+- EZGo
+- Portfolio Website
+
+## 🛠 Tech Stack
+
+Next.js • React • React Native • TypeScript • Node.js • MySQL 
+
+## 🌍 Portfolio
+
+https://faizanejaz.ezscene.com
+
+## 📫 Connect
+
+LinkedIn: https://www.linkedin.com/in/faizanejaz/
+Portfolio: https://faizanejaz.ezscene.com/
